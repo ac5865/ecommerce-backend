@@ -8,6 +8,7 @@ A RESTful API built with Node.js, Express, and MongoDB for managing an e-commerc
 - **Framework:** Express.js
 - **Database:** MongoDB with Mongoose ODM
 - **Environment:** dotenv for configuration
+- **Deployed Url:** https://ecommerce-backend-rqxy.onrender.com
 
 ## Installation
 
